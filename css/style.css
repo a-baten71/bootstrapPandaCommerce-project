@@ -1,0 +1,21 @@
+
+
+.btn{
+    background-color: #ff136f;
+    transition: all 1s;
+}
+
+.btn:hover{
+    background-color: #fff;
+    color: #ff136f;
+}
+
+
+
+.top-banner, .subscribe{
+    background-color: #fceae8;
+}
+
+.nav-link{
+    font-weight: 700;
+}
