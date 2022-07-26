@@ -1,5 +1,12 @@
 
 
+
+header{
+    margin-bottom: 90p;
+}
+.carousel-inner{
+    padding: 60px 80px 60px 120px;
+}
 .btn{
     background-color: #ff136f;
     transition: all 1s;
@@ -8,6 +15,10 @@
 .btn:hover{
     background-color: #fff;
     color: #ff136f;
+}
+
+input{
+    margin-bottom: 5px;
 }
 
 
